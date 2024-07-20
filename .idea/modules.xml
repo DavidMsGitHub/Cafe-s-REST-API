@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Cafe Rest API.iml" filepath="$PROJECT_DIR$/.idea/Cafe Rest API.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../G_Data Website/.idea/G_Data Website.iml" filepath="$PROJECT_DIR$/../G_Data Website/.idea/G_Data Website.iml" />
     </modules>
   </component>
 </project>
